@@ -1,0 +1,9 @@
+This project has to two types of users - Client and Company.
+
+Company has only one instance.
+
+Client can have multiple instance.
+
+Company can view and manipulate its client's data.
+
+Client(s) can view and manipulate their own and company's authorized data.
