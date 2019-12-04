@@ -18,6 +18,4 @@ class Connect{
 }
 
 
-$ob=new Connect;
-var_dump($ob);
 ?>
