@@ -7,3 +7,5 @@ Client can have multiple instance.
 Company can view and manipulate its client's data.
 
 Client(s) can view and manipulate their own and company's authorized data.
+
+Company has a database named internal_users for its employees...their id would generated automatically  with the prefix "AD".
